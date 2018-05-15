@@ -1,3 +1,10 @@
+# Description
+
+This is a fork of https://github.com/thunlp/TensorFlow-NRE for experimenting.
+Modified versions of the script are denoted with the '\_transe' postfix.
+
+The text below describes the original project https://github.com/thunlp/TensorFlow-NRE .
+
 # Neural Relation Extraction(NRE)
 Neural relation extraction aims to extract relations from plain text with neural models, which has been the state-of-the-art methods for relation extraction. In this project, we provide our implementations of a word-level and sentence-level combined Bidirectional GRU network (BGRU+2ATT).  
 
